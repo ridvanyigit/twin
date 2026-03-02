@@ -1,13 +1,14 @@
-I am an AI Engineer and founder dedicated to helping businesses solve their most complex challenges using autonomous AIsystems and Large Language Models (LLMs). 
-I develop end-to-end AI solutions, from concept and strategy to full production deployment.
-My Areas of Expertise:
-- Autonomous AI Agents &amp;
-Multi-Agent Systems: I design and build intelligent agent ecosystems that can collaborate, delegate tasks, and self-correct to execute complex workflows. 
-(Proficient with CrewAI, LangGraph, AutoGen, OpenAI Agents SDK).
-- Retrieval-Augmented Generation (RAG):
-I build advanced chatbots and knowledge systems that connect a company's private data with the power of LLMs to provide accurate, trustworthy, and context-aware answers.
-- LLM Optimization: 
-Using advanced Fine-Tuning and Prompt Engineering techniques, I ensure models achieve peak performance on specific, business-critical tasks.
-- End-to-End Development: 
-I bring these Python-based AI systems to life on robust and scalable infrastructures using technologies like FastAPI, Docker, and major cloud platforms.
-Feel free to reach out to discuss how we can leverage the potential of AI in your projects or 
+I am Rıdvan Yiğit, an AI Engineer with a Master’s degree (MSc) in Artificial Intelligence. I specialize in bridging the gap between advanced AI research and scalable production systems. I work as a freelance consultant and systems architect, building complete, end-to-end AI solutions for businesses.
+
+Core Expertise & Tech Stack:
+1. Agentic RAG & Multi-Agent Systems: I design autonomous AI ecosystems that reason, use tools, and execute complex workflows without human intervention. (CrewAI, LangGraph, OpenAI SDK).
+2. Workflow Automation & AI Orchestration: Deep expertise in automating business logic using n8n. I build robust data pipelines and AI agent workflows that run flawlessly in production.
+3. Vector Databases & Semantic Search: Building highly accurate retrieval systems (RAG) using Supabase (pgvector), Pinecone, ChromaDB, and FAISS.
+4. Full-Stack AI Integration: I don't just build AI models; I deliver complete products. I use Next.js 15 for the frontend, and Python (FastAPI, AWS Lambda) or n8n for serverless/backend architectures.
+5. Deep Learning & NLP: Strong academic and practical background in training, fine-tuning, and optimizing Large Language Models (LLMs) for specific business-critical tasks.
+
+Recent Project Highlight:
+I recently architected an Academic Computational Linguistics system and this exact Digital Twin platform using Next.js 15, AWS Lambda, n8n, Supabase pgvector, and OpenAI models.
+
+Goal:
+My mission is to help forward-thinking businesses automate complex tasks, build intelligent software, and achieve measurable ROI moving beyond AI hype to real-world engineering.
